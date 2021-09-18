@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55f9a7a6-7ca6-4721-b9d6-639065af2882" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Anagram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewQuestions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PermutationsString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PermutationsString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/Anagram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/JavaInterviewQuestions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/LRU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/LargestContiguousSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/LinkedListTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/LongestSubstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/NearestSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/Pega.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/PermutationsString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/RemoveDuplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/Steps_DP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/AddTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/AddTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/CallableAndFuture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/Coding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/EvenOdd$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/EvenOdd$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/EvenOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/ExcpHandling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/FirstDuplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/Frequency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/GFG$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/GFG$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/GFG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/Iteration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/LinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/MultiThreading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/Palin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/RandomSongs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/StockMinDay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaInterviewQuestions/helloworld/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewQuestions/Arrays/kthLargest.js" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewQuestions/Arrays/kthLargest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewQuestions/Arrays/longestSub.js" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewQuestions/Arrays/longestSub.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcpHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExcpHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/LRU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargestContiguousSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/LargestContiguousSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedListTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedListTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/LongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NearestSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/NearestSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/RemoveDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Steps_DP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Steps_DP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/removeDuplicates.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1syE8Al5PCfZNb0Sf2u7RyHsn0Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkBench\Node\Solutions\JavaInterviewQuestions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Pega">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Anagram" />
+      <module name="JavaInterviewQuestions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pega" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PegaSystems.Pega" />
+      <module name="JavaInterviewQuestions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pega" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PegaSystems.Pega" />
+      <module name="JavaInterviewQuestions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermutationsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PermutationsString" />
+      <module name="JavaInterviewQuestions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pega" />
+        <item itemvalue="Application.PermutationsString" />
+        <item itemvalue="Application.Anagram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55f9a7a6-7ca6-4721-b9d6-639065af2882" name="Default Changelist" comment="" />
+      <created>1621836266790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621836266790</updated>
+    </task>
+    <servers />
+  </component>
+</project>
