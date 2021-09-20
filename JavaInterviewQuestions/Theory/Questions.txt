@@ -1,0 +1,49 @@
+#2021
+
+Oracle:-
+
+1) static method overloading vs overriding
+2) Print Odd no.s using two threads
+3) Multi Exception catch block in Java
+4) Various ways of itterating through a HashMap
+5) Why is it important to override both hashcode() and equals()
+6) How to Protect an Endpoint in SpringBoot/Java
+7) Synchronized vs Concurrent HashMaps
+8) Application vs Web Servers
+9) Default Configurations that SpringBoot comes in with ?
+
+
+Nargarro:-
+
+1) Java 8 New Features
+2) Funtional Interfaces - Default vs Static Method implementation
+3) Spring autowire multiple bean of same time
+4) When to use Comparator vs Comparable
+5) How to create User-Defined immutable class
+6) PUT vs POST VS PATCH
+7) Try with resource
+8) Heapdump vs Threaddump
+9) What do you use for Service Discovery vs Registry
+10) Where can we configure memory for JVM
+11) Hibernate
+12) Saga Design Pattern -> Choreography vs Orchestration
+13) Library for changing Business Object to JSON and Vice Versa
+14) Why is Indexing in Database Tables necessary ?
+15) What is Bulkhead Design Pattern ?
+16) What is Circuit Breaker Design Pattern ?
+17) How any Threads should be there in Thread-Pool ?
+
+JPMC:-
+
+1) Future
+2) Thread Executor Service
+3) OneToMany Mapping in Entity classes
+4) Explain Lambda Functions with example
+5) Best DataStructure for storing Employee Objects sorted by Salary
+6) Interface vs Function Interface vs Abstract Class
+7) Implement the Consumer Functional Interface
+8) How do you protect your Service in Spring Boot
+9) Framework for Contract Testing
+10) Future Interface
+11) Thread Locale
+12) New Collections in Java 8
